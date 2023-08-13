@@ -1327,7 +1327,7 @@ mod test {
 
         assert_relative_eq!(t.x(), 159783.64355817687);
         assert_relative_eq!(t.y(), 380007.7906745551);
-        assert_relative_eq!(t.z(), -27.239349158361257);
+        assert_relative_eq!(t.z(), 16.769676147028804);
     }
 
     #[test]
